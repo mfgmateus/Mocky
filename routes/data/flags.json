@@ -1,0 +1,23 @@
+[
+  {
+    "name": "MasterCard",
+    "path": "mastercard",
+    "logo": "mastercard.png",
+    "color": "rgba(255, 99, 132, 0.8)",
+    "checked": false
+  },
+  {
+    "name": "Visa",
+    "path": "visa",
+    "logo": "visa.png",
+    "color": "rgba(54, 162, 235, 0.8)",
+    "checked": false
+  },
+  {
+    "name": "Elo",
+    "path": "elo",
+    "logo": "elo.png",
+    "color": "rgba(255, 206, 86, 0.8)",
+    "checked": false
+  }
+]

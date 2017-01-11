@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "value": [
+    {
+      "id": 1,
+      "name": "POS 1",
+      "type": "pos"
+    },
+    {
+      "id": 2,
+      "name": "POS 2",
+      "type": "pos"
+    },
+    {
+      "id": 3,
+      "name": "TEF Discada",
+      "type": "tef"
+    }
+  ]
+}

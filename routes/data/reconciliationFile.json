@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "value": [
+    {
+      "date": "2017-01-04T00:00:00.000Z",
+      "cnpj": "24332849000120",
+      "tradingName": "Valecard",
+      "name": "conciliacao.txt",
+      "status": "Enviado",
+      "link": "www.google.com"
+    }
+  ]
+}

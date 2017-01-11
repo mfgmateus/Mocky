@@ -1,0 +1,14 @@
+GET=/vendas=./data/sale.json
+GET=/recebimentos=./data/earnings.json
+GET=/recebimentos-futuros=./data/futureEarnings.json
+GET=/bandeiras=./data/flags.json
+GET=/antecipacao=./data/prepayment.json
+POST=/antecipacao=./data/doPrepayment.json
+POST=/antecipacao-automatica=./data/autoPrepayment.json
+GET=/arquivo-conciliacao/configuracao/email=./data/reconciliationEmail.json
+POST=/arquivo-conciliacao/configuracao/email=./data/reconciliationEmailResponse.json
+GET=/arquivo-conciliacao=./data/reconciliationFile.json
+GET=/empresa/endereco/:cnpj=./data/subsidiaryAddress.json
+GET=/empresa/meios-captura=./data/captures.json
+POST=/empresa/filial=./data/addSubsidiary.json
+GET=/administracao/contratos-e-tarifas=./data/contractsAndFares.json
