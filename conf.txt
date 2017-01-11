@@ -1,4 +1,4 @@
-GET=/vendas=./data/sale.json
+POST=/summary/sales=./data/sale.json
 GET=/recebimentos=./data/earnings.json
 GET=/recebimentos-futuros=./data/futureEarnings.json
 GET=/bandeiras=./data/flags.json
@@ -12,3 +12,4 @@ GET=/empresa/endereco/:cnpj=./data/subsidiaryAddress.json
 GET=/empresa/meios-captura=./data/captures.json
 POST=/empresa/filial=./data/addSubsidiary.json
 GET=/administracao/contratos-e-tarifas=./data/contractsAndFares.json
+POST=/login=./data/login.json

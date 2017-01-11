@@ -24,7 +24,7 @@ lineReader.on('line', function (line) {
 
 /* GET home page. */
 router.get('/*', function(req, res, next) {
-              console.log(req);
+              console.log(req.headers.authorization);
               next();
 });
 
