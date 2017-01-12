@@ -1,4 +1,7 @@
 {
-  "availableValue": 970,
-  "discountRate": 3.75
+  "success": true,
+  "value": {
+    "availableValue": 100,
+    "discountRate": 3.75
+  }
 }

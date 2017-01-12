@@ -1,9 +1,9 @@
 POST=/summary/sales=./data/sale.json
-GET=/recebimentos=./data/earnings.json
-GET=/recebimentos-futuros=./data/futureEarnings.json
-GET=/bandeiras=./data/flags.json
-GET=/antecipacao=./data/prepayment.json
-POST=/antecipacao=./data/doPrepayment.json
+POST=/summary/earnings=./data/earnings.json
+POST=/summary/future-earnings=./data/futureEarnings.json
+POST=/summary/flags=./data/flags.json
+POST=/prepayment/default=./data/prepayment.json
+POST=/prepayment/default/post=./data/doPrepayment.json
 POST=/antecipacao-automatica=./data/autoPrepayment.json
 GET=/arquivo-conciliacao/configuracao/email=./data/reconciliationEmail.json
 POST=/arquivo-conciliacao/configuracao/email=./data/reconciliationEmailResponse.json

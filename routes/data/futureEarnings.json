@@ -1,370 +1,373 @@
-[
-  {
-    "date": "2017-01-04T00:00:00.000Z",
-    "amount": 5,
-    "totalValue": 239,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+{
+  "success": true,
+  "value": [
+    {
+      "date": "2017-01-04T00:00:00.000Z",
+      "amount": 5,
+      "totalValue": 239,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2017-01-03T00:00:00.000Z",
-    "amount": 3,
-    "totalValue": 522,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2017-01-03T00:00:00.000Z",
+      "amount": 3,
+      "totalValue": 522,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2017-01-02T00:00:00.000Z",
-    "amount": 2,
-    "totalValue": 100,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2017-01-02T00:00:00.000Z",
+      "amount": 2,
+      "totalValue": 100,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2017-01-01T00:00:00.000Z",
-    "amount": 7,
-    "totalValue": 34,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2017-01-01T00:00:00.000Z",
+      "amount": 7,
+      "totalValue": 34,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-31T00:00:00.000Z",
-    "amount": 26,
-    "totalValue": 290,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-31T00:00:00.000Z",
+      "amount": 26,
+      "totalValue": 290,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-30T00:00:00.000Z",
-    "amount": 1,
-    "totalValue": 432,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-30T00:00:00.000Z",
+      "amount": 1,
+      "totalValue": 432,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-29T00:00:00.000Z",
-    "amount": 10,
-    "totalValue": 432,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-29T00:00:00.000Z",
+      "amount": 10,
+      "totalValue": 432,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-28T00:00:00.000Z",
-    "amount": 10,
-    "totalValue": 432,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-28T00:00:00.000Z",
+      "amount": 10,
+      "totalValue": 432,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-27T00:00:00.000Z",
-    "amount": 10,
-    "totalValue": 432,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-27T00:00:00.000Z",
+      "amount": 10,
+      "totalValue": 432,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-26T00:00:00.000Z",
-    "amount": 10,
-    "totalValue": 432,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-26T00:00:00.000Z",
+      "amount": 10,
+      "totalValue": 432,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-25T00:00:00.000Z",
-    "amount": 10,
-    "totalValue": 432,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-25T00:00:00.000Z",
+      "amount": 10,
+      "totalValue": 432,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-24T00:00:00.000Z",
-    "amount": 10,
-    "totalValue": 432,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-24T00:00:00.000Z",
+      "amount": 10,
+      "totalValue": 432,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-23T00:00:00.000Z",
-    "amount": 10,
-    "totalValue": 432,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-23T00:00:00.000Z",
+      "amount": 10,
+      "totalValue": 432,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-22T00:00:00.000Z",
-    "amount": 10,
-    "totalValue": 432,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-22T00:00:00.000Z",
+      "amount": 10,
+      "totalValue": 432,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-21T00:00:00.000Z",
-    "amount": 10,
-    "totalValue": 432,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-21T00:00:00.000Z",
+      "amount": 10,
+      "totalValue": 432,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
-    }
-  },
-  {
-    "date": "2016-12-20T00:00:00.000Z",
-    "amount": 10,
-    "totalValue": 432,
-    "flags": [
-      {
-        "name": "visa",
-        "value": 32
-      },
-      {
-        "name": "elo",
-        "value": 45
-      },
-      {
-        "name": "mastercard",
-        "value": 50
+    },
+    {
+      "date": "2016-12-20T00:00:00.000Z",
+      "amount": 10,
+      "totalValue": 432,
+      "flags": [
+        {
+          "name": "visa",
+          "value": 32
+        },
+        {
+          "name": "elo",
+          "value": 45
+        },
+        {
+          "name": "mastercard",
+          "value": 50
+        }
+      ],
+      "modality": {
+        "credit": 66,
+        "debit": 60
       }
-    ],
-    "modality": {
-      "credit": 66,
-      "debit": 60
     }
-  }
-]
+  ]
+}
