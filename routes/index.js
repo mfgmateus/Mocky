@@ -61,14 +61,15 @@ router.delete('/routes/:id', function(req, res, next){
 router.get("/**", function(req, res, next){
   Route.findOne({method: 'GET', path: req.url}, function(err, result){
     if(err) return res.send({"success": false, "value": err});
-    if(!result) return res.send({"success": false, "value": "Route not found"});
+    if(!result) return res.send({"success": false, "message": "Route not found", "value": null});
     return res.json(result.response);
   });
 });
 router.post("/**", function(req, res, next){
+  console.log(req.body);
   Route.findOne({method: 'POST', path: req.url}, function(err, result){
     if(err) return res.send({"success": false, "value": err});
-    if(!result) return res.send({"success": false, "value": "Route not found"});
+    if(!result) return res.send({"success": false, "message": "Route not found", "value": null});
     return res.json(result.response);
   });
 });

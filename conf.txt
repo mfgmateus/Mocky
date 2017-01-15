@@ -1,16 +1,3 @@
-POST=/summary/sales=./data/sale.json
-POST=/summary/earnings=./data/earnings.json
-POST=/summary/future-earnings=./data/futureEarnings.json
-POST=/summary/flags=./data/flags.json
-POST=/prepayment/default=./data/fullPrepayment.json
-POST=/prepayment/default/post=./data/doFullPrepayment.json
-POST=/prepayment/custom=./data/doPrepaymentSimulation.json
-POST=/prepayment/auto-prepayment=./data/autoPrepayment.json
-POST=/reconciliation/files=./data/reconciliationFile.json
-POST=/reconciliation/configuration/email/save=./data/reconciliationEmailResponse.json
-GET=/reconciliation/configuration/email=./data/reconciliationEmail.json
 GET=/empresa/endereco/:cnpj=./data/subsidiaryAddress.json
 GET=/empresa/meios-captura=./data/captures.json
 POST=/empresa/filial=./data/addSubsidiary.json
-POST=/administration/contracts-and-fares=./data/contractsAndFares.json
-POST=/login=./data/login.json
